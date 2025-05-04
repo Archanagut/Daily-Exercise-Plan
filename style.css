@@ -1,0 +1,19 @@
+h2{
+    font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 50px;
+    color:yellow;
+}
+h1{
+    color:rgb(255, 6, 6);
+    background-color:azure;
+    font-size:30px;
+}
+p{
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:white;
+  font-size:20px;
+}
